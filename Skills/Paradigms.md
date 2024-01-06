@@ -1,17 +1,17 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming:🎓 known 
-  - Imperative programming:🎓 known 
-  - Structured programming:🎓 known 
+  - Procedural programming:🙋 explained
+  - Imperative programming:🙋 explained
+  - Structured programming:🙋 explained
   - Non-structured programming:🎓 known 
-  - Functional programming:🎓 known 
+  - Functional programming:🙋 explained
   - Prototype-based programming:🎓 known 
-  - Object-oriented programming:🎓 known 
-  - Object-based programming:🎓 known 
+  - Object-oriented programming:🙋 explained
+  - Object-based programming:🙋 explained
   - Generic programming:🎓 known 
   - Concurrent computing:🎓 known 
-  - Asyncronous programming:👂 heard
+  - Asyncronous programming:🎓 known 
   - Parallel programming:🎓 known 
   - Reactive programming:🎓 known 
   - FRP (Functional-reactive):🎓 known 
@@ -21,41 +21,41 @@
   - Metaprogramming:🎓 known 
   - Actor model:🎓 known 
 - OOP basics
-  - constructor:🖐️ used 
-  - new:🖐️ used 
-  - Static method:🖐️ used 
-  - Method:🖐️ used 
-  - Async method:👂 heard
-  - Getters, Setters:🖐️ used 
-  - Public fields:🖐️ used 
-  - Private fields:🖐️ used 
-  - Field declarations:🖐️ used 
-  - Inheritance:🖐️ used 
-  - Parent class:🖐️ used 
-  - Polymorphism:🖐️ used 
-  - Abstract class:🖐️ used 
-  - Interface:🖐️ used 
-  - Encapsulation:🖐️ used 
-  - Hidden class:🖐️ used 
-  - Object form:🖐️ used 
-  - instance:🖐️ used 
+  - constructor:🙋 explained
+  - new:🙋 explained
+  - Static method:🙋 explained
+  - Method:🙋 explained
+  - Async method:🙋 explained
+  - Getters, Setters:🙋 explained
+  - Public fields:🙋 explained
+  - Private fields:🙋 explained
+  - Field declarations:🙋 explained
+  - Inheritance:🙋 explained
+  - Parent class:🙋 explained
+  - Polymorphism:🙋 explained
+  - Abstract class:🙋 explained
+  - Interface:🙋 explained
+  - Encapsulation:🙋 explained
+  - Hidden class:🙋 explained
+  - Object form:🙋 explained
+  - instance:🙋 explained
   - Introspection:🖐️ used 
   - Reflection:🖐️ used 
 - Patterns
-  - Singleton:🖐️ used 
-  - Factory Method
+  - Singleton:🙋 explained
+  - Factory Method:🖐️ used 
   - Abstract Factory:🖐️ used 
   - Adapter:🖐️ used 
   - Observer:🎓 known
   - Strategy:🎓 known
   - Facade:🎓 known
-  - Proxy:🎓 known
+  - Proxy:🖐️ used 
   - Chain of Responsibility:🎓 known
   - Command:🖐️ used 
   - Iterator:🖐️ used 
   - State:🖐️ used 
   - Bridge:🖐️ used 
-  - Builder:🖐️ used 
+  - Builder:🙋 explained
   - Prototype:🖐️ used 
   - Composite:🎓 known
   - Decorator:🎓 known

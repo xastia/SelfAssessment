@@ -4,22 +4,22 @@
   - Object:🙋 explained
   - this:🙋 explained
   - arrow function:🙋 explained
-  - async function:👂 heard 
+  - async function:🎓 known 
   - call:🎓 known 
   - bind:🎓 known 
   - apply:🎓 known 
-  - instanceof:👂 heard 
+  - instanceof:🖐️ used
   - ...spread:🖐️ used
   - ...rest:🖐️ used
   - typeof:🙋 explained
-  - destructuring:👂 heard
+  - destructuring:🎓 known 
   - generator:🎓 known 
   - iterator:🎓 known 
-  - async generator:👂 heard
-  - async iterator:👂 heard
+  - async generator:🎓 known 
+  - async iterator:🎓 known 
   - chaining:🎓 known 
   - optional chaining:🎓 known 
-  - IIFE:👂 heard
+  - IIFE:🎓 known 
   - global:🙋 explained
   - globalThis:🙋 explained
   - window:🙋 explained
@@ -32,7 +32,7 @@
   - ternary operator:🙋 explained
   - void:🙋 explained
   - yield:🙋 explained
-  - await:👂 heard
+  - await:🎓 known 
   - template literal:🙋 explained
   - strict mode:🙋 explained
   - delete:🙋 explained
@@ -67,7 +67,7 @@
   - functional object:🙋 explained
 - Data structures
   - Array:🙋 explained
-  - mixin:🎓 known 
+  - mixin:🙋 explained
   - extend:🖐️ used 
   - typed arrays:🙋 explained
   - Map:🙋 explained
@@ -75,15 +75,15 @@
   - undefined:🙋 explained
   - null:🙋 explained
   - Proxy:🎓 known 
-  - weak collections:🎓 known 
-  - timers:🖐️ used
+  - weak collections:🙋 explained
+  - timers:🙋 explained
   - EventEmitter:🎓 known 
   - RegExp:🙋 explained
   - Date:🙋 explained
   - BigInt:🙋 explained
 - Infrastructure
   - V8:🎓 known
-  - Node.js:🖐️ used
-  - npm:🖐️ used
-  - prettier:🖐️ used
+  - Node.js:🙋 explained
+  - npm:🙋 explained
+  - prettier:🙋 explained
   - MDN:🎓 known

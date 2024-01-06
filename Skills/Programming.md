@@ -41,7 +41,7 @@
   - curry:🎓 known
   - higher order:🎓 known
   - recursion:🙋 explained
-  - callback:🎓 known
+  - callback:🙋 explained
   - listener:🙋 explained
   - compose:🎓 known
   - pipe:🎓 known
@@ -62,7 +62,7 @@
   - class:🙋 explained
   - collection:🙋 explained
   - set:🙋 explained
-  - hash table:🎓 known 
+  - hash table:🙋 explained
   - linked list:🙋 explained
   - doubly list:🙋 explained
   - unrolled list:🖐️ used
@@ -83,11 +83,11 @@
   - linter:🙋 explained
   - polyfill:👂 heard
   - debugger:🙋 explained
-  - garbage collection:🎓 known 
+  - garbage collection:🙋 explained
   - refactoring:🙋 explained
   - code review:🙋 explained
-  - antipatterns:🎓 known
-  - paradigm:🎓 known
+  - antipatterns:🙋 explained
+  - paradigm:🙋 explained
   - algorithm:🙋 explained
   - magic numbers:🙋 explained
   - hardcode:🙋 explained
